@@ -1,23 +1,23 @@
-# [Project Name] - Team [X]
+# Income Prediction: What Determines Who Earns More? - Team 1
 
 **DATA 4950 Data Science Capstone | Spring 2026**
 
-**Team Members:** [List your names here]
+**Team Members:** Masha Bystritskii and Sara Mahmoud
 
 ---
 
 ## Project Overview
 
-[Write 2-3 sentences describing your project. What problem are you solving? What data are you using?]
+This project involves looking at a dataset from the U.S. Census. The data includes predictors like education, occupation, race, and sex. Using the predictors, we are trying to predict if someone makes more or less than 50k. 
 
 ## Dataset
 
 | Item | Description |
 |------|-------------|
-| **Source** | [Where did you get the data?] |
-| **Size** | [How many rows and columns?] |
-| **Target Variable** | [What are you predicting?] |
-| **Task Type** | [Classification / Regression] |
+| **Source** | https://archive.ics.uci.edu/ml/datasets/Adult |
+| **Size** | 32561 rows, 15 columns |
+| **Target Variable** | Class, whether someone makes more or less than 50k |
+| **Task Type** | Classification |
 
 ## Repository Structure
 
